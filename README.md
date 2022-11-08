@@ -5,13 +5,13 @@ Current weather and 5-day forecaster App using API
 # Links
 -----------------------------------------------------------------------
 ### [Demonstration Video]()
-### [Repository]()
+### [Repository](https://github.com/Micky-Ad/README-Page-Generator)
 
 
 # Screenshot:
 ----------------------------------------------------------------------
 
- ![alt text](README-Page-Generator/assets/images/Generated-README-Page-Sample.PNG)
+ ![alt text](./assets/images/Generated-README-Page-Sample.PNG)
  ![alt text](./assets/images/Generated-README-Page-Sample)
 
 # Usage:
