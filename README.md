@@ -12,7 +12,7 @@ Current weather and 5-day forecaster App using API
 ----------------------------------------------------------------------
 
  ![alt text](./assets/images/Generated-README-Page-Sample.PNG)
- ![alt text](./assets/images/Generated-README-Page-Sample)
+ ![alt text](./assets/images/app-input-screenshot.PNG)
 
 # Usage:
 ----------------------------------------------------------------------
