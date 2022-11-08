@@ -1,6 +1,6 @@
 # README-Page-Generator
 
-Current weather and 5-day forecaster App using API
+A professional README page Generator 
 
 # Links
 -----------------------------------------------------------------------
