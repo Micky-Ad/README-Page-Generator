@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/Micky-Ad/README-Page-Generator?style=for-the-badge)
+
+
 # README-Page-Generator
 
 A professional README page Generator 
